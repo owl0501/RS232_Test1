@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\RS232_Test1\bin\Debug\RS232_Test1.exe.config
+C:\Users\admin\Desktop\RS232_Test1\bin\Debug\RS232_Test1.exe
+C:\Users\admin\Desktop\RS232_Test1\bin\Debug\RS232_Test1.pdb
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.Form1.resources
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.Properties.Resources.resources
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.exe
+C:\Users\admin\Desktop\RS232_Test1\obj\Debug\RS232_Test1.pdb
